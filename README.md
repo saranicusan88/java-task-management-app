@@ -34,4 +34,4 @@ A desktop task management application built in Java, designed to manage employee
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/saranicusan88/java-task-management-app).git
+git clone https://github.com/saranicusan88/java-task-management-app.git
